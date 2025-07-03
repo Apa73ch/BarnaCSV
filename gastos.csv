@@ -1,2 +1,3 @@
-fecha,categoría,monto,nota
-2025-07-03 15:22:18,comida,380.0,comida china
+fecha,categoría,monto,nota,Fecha,Categoría,Monto,Nota
+2025-07-03 15:22:18,comida,380.0,comida china,,,,
+,,,,2025-07-03 15:38:05,Comida,400.0,Almuerzo Viernes
